@@ -1,0 +1,30 @@
+C:\Users\alexa\source\repos\KYS - Prototype 1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alexa\source\repos\KYS - Prototype 1\bin\Debug\net8.0\appsettings.json
+C:\Users\alexa\source\repos\KYS - Prototype 1\bin\Debug\net8.0\KYS - Prototype 1.staticwebassets.runtime.json
+C:\Users\alexa\source\repos\KYS - Prototype 1\bin\Debug\net8.0\KYS - Prototype 1.exe
+C:\Users\alexa\source\repos\KYS - Prototype 1\bin\Debug\net8.0\KYS - Prototype 1.deps.json
+C:\Users\alexa\source\repos\KYS - Prototype 1\bin\Debug\net8.0\KYS - Prototype 1.runtimeconfig.json
+C:\Users\alexa\source\repos\KYS - Prototype 1\bin\Debug\net8.0\KYS - Prototype 1.dll
+C:\Users\alexa\source\repos\KYS - Prototype 1\bin\Debug\net8.0\KYS - Prototype 1.pdb
+C:\Users\alexa\source\repos\KYS - Prototype 1\obj\Debug\net8.0\KYS - Prototype 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\KYS - Prototype 1\obj\Debug\net8.0\KYS - Prototype 1.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\KYS - Prototype 1\obj\Debug\net8.0\KYS - Prototype 1.AssemblyInfo.cs
+C:\Users\alexa\source\repos\KYS - Prototype 1\obj\Debug\net8.0\KYS - Prototype 1.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\KYS - Prototype 1\obj\Debug\net8.0\KYS - Prototype 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexa\source\repos\KYS - Prototype 1\obj\Debug\net8.0\KYS - Prototype 1.RazorAssemblyInfo.cache
+C:\Users\alexa\source\repos\KYS - Prototype 1\obj\Debug\net8.0\KYS - Prototype 1.RazorAssemblyInfo.cs
+C:\Users\alexa\source\repos\KYS - Prototype 1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alexa\source\repos\KYS - Prototype 1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alexa\source\repos\KYS - Prototype 1\obj\Debug\net8.0\staticwebassets\msbuild.KYS - Prototype 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alexa\source\repos\KYS - Prototype 1\obj\Debug\net8.0\staticwebassets\msbuild.build.KYS - Prototype 1.props
+C:\Users\alexa\source\repos\KYS - Prototype 1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KYS - Prototype 1.props
+C:\Users\alexa\source\repos\KYS - Prototype 1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KYS - Prototype 1.props
+C:\Users\alexa\source\repos\KYS - Prototype 1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alexa\source\repos\KYS - Prototype 1\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alexa\source\repos\KYS - Prototype 1\obj\Debug\net8.0\scopedcss\bundle\KYS - Prototype 1.styles.css
+C:\Users\alexa\source\repos\KYS - Prototype 1\obj\Debug\net8.0\scopedcss\projectbundle\KYS - Prototype 1.bundle.scp.css
+C:\Users\alexa\source\repos\KYS - Prototype 1\obj\Debug\net8.0\KYS - Prototype 1.dll
+C:\Users\alexa\source\repos\KYS - Prototype 1\obj\Debug\net8.0\refint\KYS - Prototype 1.dll
+C:\Users\alexa\source\repos\KYS - Prototype 1\obj\Debug\net8.0\KYS - Prototype 1.pdb
+C:\Users\alexa\source\repos\KYS - Prototype 1\obj\Debug\net8.0\KYS - Prototype 1.genruntimeconfig.cache
+C:\Users\alexa\source\repos\KYS - Prototype 1\obj\Debug\net8.0\ref\KYS - Prototype 1.dll

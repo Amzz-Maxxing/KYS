@@ -1,0 +1,93 @@
+﻿@page
+@model KYS___Prototype_1.Pages.RegisterModel
+@{
+}
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register Page</title>
+    <script src="Register.js"></script>
+</head>
+<body>
+    <h1>Register Page</h1>
+    <label for="fullName">Full Name: </label>
+    <input type="text" id="fullName" required>
+    <br>
+
+    <label for="email">Email: </label>
+    <input type="text" id="email" required>
+    <br>
+
+    <label for="password">Password: </label>
+    <input type="text" id="password" required>
+    <br>
+
+    <label for="confirmPassword">Confirm Password: </label>
+    <input type="text" id="password" required>
+    <br>
+
+    <button onclick="validateRegistrationForm()">Register</button>
+
+    <h2 id="result"></h2>
+
+    <script>
+        function validateRegistrationForm() {
+            //let fullName = document.getElementById('fullName').value;
+            //let email = document.getElementById('email').value;
+            //let password = document.getElementById('password').value;
+            //let confirmPassword = document.getElementById('confirmPassword').value;
+            var FullName = fullName;
+            var Email = email;
+            var Password = password;
+            var ConfirmPassword = confirmPassword;
+
+            if (!FullName || !Email || !Password || !ConfirmPassword) {
+                showErrorMessage('All fields are required.');
+                return false;
+            }
+
+            if (Password !== ConfirmPassword) {
+                showErrorMessage('Passwords do not match.');
+                return false;
+            }
+
+            // Additional validation can be added here
+
+            return true;
+        }
+
+        // Function to process the registration
+        function processRegistration() {
+            if (validateRegistrationForm()) {
+                // Simulate saving user data to the database
+                console.log('User registered successfully');
+
+                showSuccessMessage('Registration successful!');
+            }
+        }
+
+        // Function to show success message
+        function showSuccessMessage(message) {
+            let successMessage = document.getElementById('successMessage');
+            successMessage.innerText = message;
+            successMessage.style.display = 'block';
+        }
+
+        // Function to show error message
+        function showErrorMessage(message) {
+            let errorMessage = document.getElementById('errorMessage');
+            errorMessage.innerText = message;
+            errorMessage.style.display = 'block';
+        }
+
+        // Event listener for form submission
+        document.getElementById('registrationForm').addEventListener('submit', function (event) {
+            event.preventDefault();
+            processRegistration();
+        });
+    </script>
+</body>
+
+</html>

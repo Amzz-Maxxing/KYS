@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KYS - Prototype 1.props" />
+</Project>
