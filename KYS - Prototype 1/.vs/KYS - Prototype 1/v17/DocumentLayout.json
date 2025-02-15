@@ -1,34 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alexa\\source\\repos\\KYS - Prototype 1\\",
+  "WorkspaceRootPath": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\KYS\\KYS - Prototype 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|c:\\users\\alexa\\source\\repos\\kys - prototype 1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\kys\\kys - prototype 1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\kys\\kys - prototype 1\\pages\\calorieintakecalculator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|solutionrelative:pages\\calorieintakecalculator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\kys\\kys - prototype 1\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|solutionrelative:pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\kys\\kys - prototype 1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|c:\\users\\alexa\\source\\repos\\kys - prototype 1\\pages\\help.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|solutionrelative:pages\\help.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|c:\\users\\alexa\\source\\repos\\kys - prototype 1\\pages\\help.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|solutionrelative:pages\\help.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|c:\\users\\alexa\\source\\repos\\kys - prototype 1\\pages\\aichatbot.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|solutionrelative:pages\\aichatbot.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|c:\\users\\alexa\\source\\repos\\kys - prototype 1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\kys\\kys - prototype 1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|c:\\users\\alexa\\source\\repos\\kys - prototype 1\\pages\\aichatbot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|solutionrelative:pages\\aichatbot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\kys\\kys - prototype 1\\pages\\aichatbot.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|solutionrelative:pages\\aichatbot.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|c:\\users\\alexa\\source\\repos\\kys - prototype 1\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|solutionrelative:pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\kys\\kys - prototype 1\\pages\\help.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|solutionrelative:pages\\help.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\kys\\kys - prototype 1\\pages\\help.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|solutionrelative:pages\\help.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\kys\\kys - prototype 1\\pages\\aichatbot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FFD49FB-4936-4DA1-978C-C4596E2F5C0C}|KYS - Prototype 1.csproj|solutionrelative:pages\\aichatbot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,17 +46,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\KYS - Prototype 1\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\KYS\\KYS - Prototype 1\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\alexa\\source\\repos\\KYS - Prototype 1\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\KYS\\KYS - Prototype 1\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBgAAAAtAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBwAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-15T06:30:15.99Z",
               "IsPinned": true,
@@ -56,26 +64,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Help.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\KYS - Prototype 1\\Pages\\Help.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Help.cshtml.cs",
-              "ToolTip": "C:\\Users\\alexa\\source\\repos\\KYS - Prototype 1\\Pages\\Help.cshtml.cs",
-              "RelativeToolTip": "Pages\\Help.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T08:35:32.85Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\KYS\\KYS - Prototype 1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\KYS\\KYS - Prototype 1\\Pages\\Index.cshtml*",
+              "RelativeToolTip": "Pages\\Index.cshtml*",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAkwEkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T16:14:55.173Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CalorieIntakeCalculator.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\KYS\\KYS - Prototype 1\\Pages\\CalorieIntakeCalculator.cshtml",
+              "RelativeDocumentMoniker": "Pages\\CalorieIntakeCalculator.cshtml",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\KYS\\KYS - Prototype 1\\Pages\\CalorieIntakeCalculator.cshtml",
+              "RelativeToolTip": "Pages\\CalorieIntakeCalculator.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T16:15:02.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\KYS\\KYS - Prototype 1\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Register.cshtml",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\KYS\\KYS - Prototype 1\\Pages\\Register.cshtml",
+              "RelativeToolTip": "Pages\\Register.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwEQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T07:50:22.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Help.cshtml",
-              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\KYS - Prototype 1\\Pages\\Help.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\KYS\\KYS - Prototype 1\\Pages\\Help.cshtml",
               "RelativeDocumentMoniker": "Pages\\Help.cshtml",
-              "ToolTip": "C:\\Users\\alexa\\source\\repos\\KYS - Prototype 1\\Pages\\Help.cshtml",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\KYS\\KYS - Prototype 1\\Pages\\Help.cshtml",
               "RelativeToolTip": "Pages\\Help.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-15T08:34:45.88Z",
               "EditorCaption": ""
@@ -84,9 +119,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\KYS - Prototype 1\\Pages\\Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\KYS\\KYS - Prototype 1\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\alexa\\source\\repos\\KYS - Prototype 1\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\KYS\\KYS - Prototype 1\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "Pages\\Index.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,11 +130,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AIChatbot.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\KYS - Prototype 1\\Pages\\AIChatbot.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\KYS\\KYS - Prototype 1\\Pages\\AIChatbot.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\AIChatbot.cshtml.cs",
-              "ToolTip": "C:\\Users\\alexa\\source\\repos\\KYS - Prototype 1\\Pages\\AIChatbot.cshtml.cs",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\KYS\\KYS - Prototype 1\\Pages\\AIChatbot.cshtml.cs",
               "RelativeToolTip": "Pages\\AIChatbot.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -108,29 +143,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AIChatbot.cshtml",
-              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\KYS - Prototype 1\\Pages\\AIChatbot.cshtml",
-              "RelativeDocumentMoniker": "Pages\\AIChatbot.cshtml",
-              "ToolTip": "C:\\Users\\alexa\\source\\repos\\KYS - Prototype 1\\Pages\\AIChatbot.cshtml",
-              "RelativeToolTip": "Pages\\AIChatbot.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-15T08:30:15.377Z",
-              "EditorCaption": ""
+              "DocumentIndex": 7,
+              "Title": "Help.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\KYS\\KYS - Prototype 1\\Pages\\Help.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Help.cshtml.cs",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\KYS\\KYS - Prototype 1\\Pages\\Help.cshtml.cs",
+              "RelativeToolTip": "Pages\\Help.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T08:35:32.85Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\KYS - Prototype 1\\Pages\\Register.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Register.cshtml",
-              "ToolTip": "C:\\Users\\alexa\\source\\repos\\KYS - Prototype 1\\Pages\\Register.cshtml",
-              "RelativeToolTip": "Pages\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "DocumentIndex": 8,
+              "Title": "AIChatbot.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\KYS\\KYS - Prototype 1\\Pages\\AIChatbot.cshtml",
+              "RelativeDocumentMoniker": "Pages\\AIChatbot.cshtml",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\KYS\\KYS - Prototype 1\\Pages\\AIChatbot.cshtml",
+              "RelativeToolTip": "Pages\\AIChatbot.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-15T07:50:22.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T08:30:15.377Z"
             }
           ]
         }
